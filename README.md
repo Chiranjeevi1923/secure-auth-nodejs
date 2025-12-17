@@ -118,8 +118,9 @@ npx drizzle-kit studio
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Chiranjeevi1923/secure-node-auth.git
-cd secure-node-auth
+git clone https://github.com/Chiranjeevi1923/secure-auth-nodejs.git
+cd secure-auth-nodejs
+```
 
 ### 2️⃣ Install dependencies
 ```bash
